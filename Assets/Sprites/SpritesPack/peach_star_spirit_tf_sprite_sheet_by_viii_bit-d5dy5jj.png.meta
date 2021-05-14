@@ -1,0 +1,1738 @@
+fileFormatVersion: 2
+guid: c85a879e108d57744b264766312dd269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_0
+  - first:
+      213: 21300002
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_1
+  - first:
+      213: 21300004
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_2
+  - first:
+      213: 21300006
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_3
+  - first:
+      213: 21300008
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_4
+  - first:
+      213: 21300010
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_5
+  - first:
+      213: 21300012
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_6
+  - first:
+      213: 21300014
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_7
+  - first:
+      213: 21300016
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_8
+  - first:
+      213: 21300018
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_9
+  - first:
+      213: 21300020
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_10
+  - first:
+      213: 21300022
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_11
+  - first:
+      213: 21300024
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_12
+  - first:
+      213: 21300026
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_13
+  - first:
+      213: 21300028
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_14
+  - first:
+      213: 21300030
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_15
+  - first:
+      213: 21300032
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_16
+  - first:
+      213: 21300034
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_17
+  - first:
+      213: 21300036
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_18
+  - first:
+      213: 21300038
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_19
+  - first:
+      213: 21300040
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_20
+  - first:
+      213: 21300042
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_21
+  - first:
+      213: 21300044
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_22
+  - first:
+      213: 21300046
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_23
+  - first:
+      213: 21300048
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_24
+  - first:
+      213: 21300050
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_25
+  - first:
+      213: 21300052
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_26
+  - first:
+      213: 21300054
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_27
+  - first:
+      213: 21300056
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_28
+  - first:
+      213: 21300058
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_29
+  - first:
+      213: 21300060
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_30
+  - first:
+      213: 21300062
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_31
+  - first:
+      213: 21300064
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_32
+  - first:
+      213: 21300066
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_33
+  - first:
+      213: 21300068
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_34
+  - first:
+      213: 21300070
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_35
+  - first:
+      213: 21300072
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_36
+  - first:
+      213: 21300074
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_37
+  - first:
+      213: 21300076
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_38
+  - first:
+      213: 21300078
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_39
+  - first:
+      213: 21300080
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_40
+  - first:
+      213: 21300082
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_41
+  - first:
+      213: 21300084
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_42
+  - first:
+      213: 21300086
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_43
+  - first:
+      213: 21300088
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_44
+  - first:
+      213: 21300090
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_45
+  - first:
+      213: 21300092
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_46
+  - first:
+      213: 21300094
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_47
+  - first:
+      213: 21300096
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_48
+  - first:
+      213: 21300098
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_49
+  - first:
+      213: 21300100
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_50
+  - first:
+      213: 21300102
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_51
+  - first:
+      213: 21300104
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_52
+  - first:
+      213: 21300106
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_53
+  - first:
+      213: 21300108
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_54
+  - first:
+      213: 21300110
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_55
+  - first:
+      213: 21300112
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_56
+  - first:
+      213: 21300114
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_57
+  - first:
+      213: 21300116
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_58
+  - first:
+      213: 21300118
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_59
+  - first:
+      213: 21300120
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_60
+  - first:
+      213: 21300122
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_61
+  - first:
+      213: 21300124
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_62
+  - first:
+      213: 21300126
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_63
+  - first:
+      213: 21300128
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_64
+  - first:
+      213: 21300130
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_65
+  - first:
+      213: 21300132
+    second: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 331
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3b6e2f8c9a7a7499c94c012152cd31
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 331
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff398b7b38e58488e45870f2494cb8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 331
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb9f65790dc3c4986a697578beccde
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 331
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c44f143c63369347bcbfd18c959664a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eab13e38cce67b49b3490173fc94dd0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cf089c740dbc4aa294edcba2b8c61
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 331
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffce8cbf4746c741b84d4556e08b676
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 331
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced32d43c5744434e95370ee98824932
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 331
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a2eed6d5a79d4ba4a9025457cfb27
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 331
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0684d87f09852d42a0222a66b4d395e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 331
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfed3d09bd31974394ccd0d1ab846ef
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 331
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e47b65bc736bb4fb81a2a28b5fdb4a
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 331
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc07c48060303fd4e81a0e73ab2ed3cd
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 331
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e80e5acbcd06d419cfd73a82476ffb
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 319
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88790e562e40534183d63587327ff90
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 331
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6e7ca6756198140b27b296cb4f7364
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 331
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a387d128e7ed478ab381438227308
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 331
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1210ef223a1044a04a53b22c7cf82
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 331
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64145c182fe071e46b3e674565a80160
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 241
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9953e9a619dbf7d468163c75476bda17
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 242
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e643f25c5bd39ca40a89f85ee88fb99f
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 241
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb92315a3ac5d54ebc14ce1160def74
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 241
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ad6536ce4ca9418a418f4054a4692
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 241
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b522d010f933d42bb84f770e4a1c0e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 241
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3e9518274d694db7c2e122a1b4711
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 239
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811351ae7a4be104cb0fd56f5de7d00f
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 240
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de258655975f45e4286e3426337d819a
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_27
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 240
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69ad5199962db428354e924f7bf987
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 239
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879fd9b91019f254abe3bec079b10a9d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_29
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 239
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8675755959a4e1d48b4765fe770ec1e5
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_30
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 239
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc6278d415c474691d21fffe5c8183
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_31
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 239
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b06c719e80ea449b4e8484f7d1eb9
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_32
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 240
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c632e6a32fa411e4cb214c93cbbc9bf7
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 162
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742dfcaeddc2000469f6117097c67e9d
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 162
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dc3d8ab23be3a439fbc24cf57765bf
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09bf6df2d53d44448704f95d395500d
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 162
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442c7db71c6e2754f940e3b640495e5d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 164
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc04f2f3c7cd9044b985b660f7f3281
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 164
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195520beb500dd043965ab059c2fea75
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_39
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 165
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34db8112884ef554eaa2fe49cb3cfc4e
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_40
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 164
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba2a0b3d2416ef48a3e559fe1f71c32
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 164
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0587ccb8b7a876f47a53ce180f92e4b7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_42
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 165
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de7e43afa083344f82abcdbd6595577
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 165
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ca3b895f3f3646ac28389e626fed9
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_44
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 164
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00000bf3a6d42d488e3163b460155f5
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_45
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 164
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcbebdbc755f8542bb5409f83ac5329
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 80
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591db8fa9aed4ea4594d714786a2caf7
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6d49f9efc3a5a4cb54aa12b5e8259f
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 80
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77be05b7aeca2364a8fe568d63b96460
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3cd1bab7fca1540ac33d68d7b0a00a
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_50
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 79
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f17336ea2d098745ae0fcf42355927d
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_51
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 80
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc5b5e4ded246246bed0f5e4bacde2a
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 81
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002083b62b62474ba27ed0e6b55b27e
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 82
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f43ea71b9996d4aa6379c59ef9b438
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_54
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 83
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6baa04e28eb31f4cb60339a69e962d8
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_55
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 83
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c8186c6ac0de48a4e8e8162a7cc37
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_56
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 83
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dda21a4af042784b8a8de23f0ac059c
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367f5fb300087634e967b11ad1aaca4b
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb0ecb3115e2b342892f0513e5127d9
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 10
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db882298b07236043a1bc03b2bb6069a
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e4140638f0814183cff6c94dce613
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 11
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ba23c9217a854daf7e601db6f3961
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_62
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 11
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d909a23e828146643bb1b8887b87e710
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_63
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 14
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6686b41001c644a40b2ef4a4202d2473
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_64
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 13
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251a2b3eddb0c774384e1bf3fc79ba9f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_65
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 13
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d771b84259210549903365869ce5bf1
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peach_star_spirit_tf_sprite_sheet_by_viii_bit-d5dy5jj_66
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 14
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3e5c048ff0ac47b93754c99392dff
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5c64f6bf28e66ba4591731bca19522af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
