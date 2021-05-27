@@ -9,7 +9,7 @@ public class TeleportController : MonoBehaviour {
 	
 	private void Awake()
 	{
-		Debugger.LaunchAssert(_teleportPoint != null, "Falta asignar la referencia _teleportPoint", this.gameObject);
+		//Debugger.LaunchAssert(_teleportPoint != null, "Falta asignar la referencia _teleportPoint", this.gameObject);
 	}
 	
 	private void OnTriggerEnter2D(Collider2D collider2D)
